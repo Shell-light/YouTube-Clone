@@ -1,0 +1,39 @@
+.container {
+    /* background-color: rgb(50, 197, 197); */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+    padding-left: 20px;
+    width: 370px;
+}
+
+.all-inboxes {
+    display: block;
+    color: gray;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.email {
+    margin-bottom: 15px;
+}
+
+.column {
+    display: inline-block;
+}
+
+.cat-pic {
+    width: 50px;
+    border-radius: 25px;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.name, .description {
+    font-weight: bold;
+}

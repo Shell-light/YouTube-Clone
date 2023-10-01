@@ -1,0 +1,40 @@
+.model {
+    position: relative;
+    width: 500px;
+}
+
+.pic {
+    width: 500px;
+}
+
+.discount {
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 10px;
+    right: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 25px;
+}
+
+.btn {
+    background-color: rgba(255, 255, 255, 0.8);
+    position: absolute;
+    right: 0;
+    left: 0;
+    text-align: center;
+    height: 150px;
+    bottom: 0;
+}
+
+button {
+    background-color: rgb(173, 173, 173);
+    font-size: 25px;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+    margin-top: 50px;
+}

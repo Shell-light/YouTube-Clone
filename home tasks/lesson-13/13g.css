@@ -1,0 +1,66 @@
+div {
+    font-family: Arial;
+}
+
+.asosiy {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.profil-pic {
+    height: 50px;
+    border-radius: 25px;
+}
+
+.tweet-header {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+  }
+  
+  .tweet-author {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .tweet-author-handle {
+    color: rgb(111, 111, 111);
+  }
+
+.abc {
+    font-weight: bold;
+}
+
+.acb {
+    width: 350px;
+}
+
+.video-preview {
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+    border-color: gray;
+    border-style: solid;
+    height: 80px;
+    margin-top: 10px;
+    border-width: 1px;
+    overflow:hidden;
+}
+
+.thumbnail-column {
+    width: 90px;
+    background-color: gray;
+}
+
+.video-info-column {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.video-website {
+    color: gray;
+}
+
+.video-title {
+    width: 250px;
+}

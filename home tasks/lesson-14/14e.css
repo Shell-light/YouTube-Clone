@@ -1,0 +1,61 @@
+body {
+    height: 3000px;
+}
+
+.sidebar {
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    height: 70px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.profil-pic {
+    width: 50px;
+    border-radius: 25px;
+    margin-right: 20px;
+}
+
+.main {
+    align-items: center;
+    text-align: center;
+    margin-left: 60px;
+    display: flex;
+}
+
+p {
+    display: inline-block;
+}
+
+.btn {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-right: 60px;
+}
+
+.add-btn {
+    background-color: blue;
+    color: white;
+    margin-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 8px;
+    border: none;
+}
+
+.msg-btn {
+    background-color: rgb(211, 207, 207);
+    color: black;
+    margin-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 8px;
+    border: none;
+}

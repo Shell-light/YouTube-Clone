@@ -1,0 +1,29 @@
+.flexbox {
+    display: flex;
+    height: 50px;
+}
+
+.column1 {
+    background-color: lightblue;
+    width: 100px;
+}
+
+.row2 {
+    background-color: black;
+    color: white;
+}
+
+.column2 {
+    background-color: lightpink;
+    width: 200px;
+}
+
+.column3 {
+    background-color: lightpink;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+

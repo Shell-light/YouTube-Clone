@@ -1,0 +1,55 @@
+body {
+    height: 3000px;
+}
+
+.sidebar1 {
+    background-color: rgb(56, 56, 56);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 70px;
+    padding-top: 15px;
+}
+
+.pics {
+    width: 50px;
+    border-radius: 25px;
+    margin-bottom: 6px;
+    margin-left: 10px;
+    display: block;
+}
+
+.sidebar2 {
+    background-color: rgb(78, 78, 78);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 150px;
+    margin-left: 70px;
+    padding-left: 15px;
+    padding-right: 25px;    
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+.plus {
+    font-size: 20px;
+    color: rgb(177, 174, 174);
+    font-weight: bold;
+}
+
+p {
+    font-family: Arial;
+    color: rgb(177, 174, 174);
+    margin-top: 5px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
